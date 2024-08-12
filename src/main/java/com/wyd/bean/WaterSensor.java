@@ -12,6 +12,7 @@ public class WaterSensor {
     }
 
     public WaterSensor() {
+        super();
     }
 
     public String getId() {
