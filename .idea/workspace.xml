@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5617fa0c-7e72-4bab-b981-fce76607661a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="userSettingsFile" value="C:\apache-maven-3.6.1\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="skipTests" value="true" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="2highfVCIibll516DiRkMPxEtp5" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/com/wyd/sink" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.wyd.window" />
+      <recent name="com.wyd.sink" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\IdeaProjects\flink117\src\main\java\com\wyd\sink" />
+      <recent name="D:\IdeaProjects\flink117\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.FlinkCDCSQL">
+    <configuration name="CustomPeriodicWatermarkDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="INCLUDE_PROVIDED_SCOPE" value="true" />
+      <option name="MAIN_CLASS_NAME" value="com.wyd.watermark.CustomPeriodicWatermarkDemo" />
+      <module name="flink117" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.wyd.watermark.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DeltaEvictorDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="INCLUDE_PROVIDED_SCOPE" value="true" />
+      <option name="MAIN_CLASS_NAME" value="com.wyd.window.DeltaEvictorDemo" />
+      <module name="flink117" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.wyd.window.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FlinkCDC3DataStream" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="INCLUDE_PROVIDED_SCOPE" value="true" />
+      <option name="MAIN_CLASS_NAME" value="com.wyd.cdc.FlinkCDC3DataStream" />
+      <module name="flink117" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.wyd.cdc.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FlinkCDCSQL" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="INCLUDE_PROVIDED_SCOPE" value="true" />
+      <option name="MAIN_CLASS_NAME" value="com.wyd.cdc.FlinkCDCSQL" />
+      <module name="flink117" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.wyd.cdc.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TimeEvictorDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="INCLUDE_PROVIDED_SCOPE" value="true" />
+      <option name="MAIN_CLASS_NAME" value="com.wyd.window.TimeEvictorDemo" />
+      <module name="flink117" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.wyd.window.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="INCLUDE_PROVIDED_SCOPE" value="true" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.DeltaEvictorDemo" />
+      <item itemvalue="Application.TimeEvictorDemo" />
+      <item itemvalue="Application.CustomPeriodicWatermarkDemo" />
+      <item itemvalue="Application.FlinkCDC3DataStream" />
+      <item itemvalue="Application.FlinkCDCSQL" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.FlinkCDCSQL" />
+        <item itemvalue="Application.FlinkCDC3DataStream" />
+        <item itemvalue="Application.CustomPeriodicWatermarkDemo" />
+        <item itemvalue="Application.TimeEvictorDemo" />
+        <item itemvalue="Application.DeltaEvictorDemo" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\wangyadi\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5617fa0c-7e72-4bab-b981-fce76607661a" name="Default Changelist" comment="" />
+      <created>1718082433901</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1718082433901</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="223" y="66" width="1089" height="732" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1723364724167">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="223" y="66" width="1089" height="732" key="#com.intellij.execution.impl.EditConfigurationsDialog/-3840.0.2560.1400/0.0.1536.816@0.0.1536.816" timestamp="1723364724167" />
+    <state x="688" y="232" key="#com.intellij.ide.util.MemberChooser" timestamp="1718780222244">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="688" y="232" key="#com.intellij.ide.util.MemberChooser/-3840.0.2560.1400/0.0.1536.816@0.0.1536.816" timestamp="1718780222244" />
+    <state width="406" height="466" key="DebuggerActiveHint" timestamp="1718773382220">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="406" height="466" key="DebuggerActiveHint/-3840.0.2560.1400/0.0.1536.816@0.0.1536.816" timestamp="1718773382220" />
+    <state width="1478" height="257" key="GridCell.Tab.0.bottom" timestamp="1723372573648">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1478" height="257" key="GridCell.Tab.0.bottom/-3840.0.2560.1400/0.0.1536.816@0.0.1536.816" timestamp="1723372573648" />
+    <state width="1493" height="136" key="GridCell.Tab.0.bottom/0.0.1536.816@0.0.1536.816" timestamp="1718797936015" />
+    <state width="1478" height="257" key="GridCell.Tab.0.center" timestamp="1723372573648">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1478" height="257" key="GridCell.Tab.0.center/-3840.0.2560.1400/0.0.1536.816@0.0.1536.816" timestamp="1723372573648" />
+    <state width="1493" height="136" key="GridCell.Tab.0.center/0.0.1536.816@0.0.1536.816" timestamp="1718797936015" />
+    <state width="1478" height="257" key="GridCell.Tab.0.left" timestamp="1723372573648">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1478" height="257" key="GridCell.Tab.0.left/-3840.0.2560.1400/0.0.1536.816@0.0.1536.816" timestamp="1723372573648" />
+    <state width="1493" height="136" key="GridCell.Tab.0.left/0.0.1536.816@0.0.1536.816" timestamp="1718797936015" />
+    <state width="1478" height="257" key="GridCell.Tab.0.right" timestamp="1723372573648">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1478" height="257" key="GridCell.Tab.0.right/-3840.0.2560.1400/0.0.1536.816@0.0.1536.816" timestamp="1723372573648" />
+    <state width="1493" height="136" key="GridCell.Tab.0.right/0.0.1536.816@0.0.1536.816" timestamp="1718797936015" />
+    <state width="1493" height="468" key="GridCell.Tab.1.bottom" timestamp="1718797936012">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1493" height="468" key="GridCell.Tab.1.bottom/-3840.0.2560.1400/0.0.1536.816@0.0.1536.816" timestamp="1718779383377" />
+    <state width="1493" height="468" key="GridCell.Tab.1.bottom/0.0.1536.816@0.0.1536.816" timestamp="1718797936012" />
+    <state width="1493" height="468" key="GridCell.Tab.1.center" timestamp="1718797936012">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1493" height="468" key="GridCell.Tab.1.center/-3840.0.2560.1400/0.0.1536.816@0.0.1536.816" timestamp="1718779383377" />
+    <state width="1493" height="468" key="GridCell.Tab.1.center/0.0.1536.816@0.0.1536.816" timestamp="1718797936012" />
+    <state width="1493" height="468" key="GridCell.Tab.1.left" timestamp="1718797936012">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1493" height="468" key="GridCell.Tab.1.left/-3840.0.2560.1400/0.0.1536.816@0.0.1536.816" timestamp="1718779383377" />
+    <state width="1493" height="468" key="GridCell.Tab.1.left/0.0.1536.816@0.0.1536.816" timestamp="1718797936012" />
+    <state width="1493" height="468" key="GridCell.Tab.1.right" timestamp="1718797936012">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1493" height="468" key="GridCell.Tab.1.right/-3840.0.2560.1400/0.0.1536.816@0.0.1536.816" timestamp="1718779383377" />
+    <state width="1493" height="468" key="GridCell.Tab.1.right/0.0.1536.816@0.0.1536.816" timestamp="1718797936012" />
+    <state x="272" y="0" key="SettingsEditor" timestamp="1723365335237">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="272" y="0" key="SettingsEditor/-3840.0.2560.1400/0.0.1536.816@0.0.1536.816" timestamp="1723365335237" />
+    <state x="272" y="53" key="SettingsEditor/0.0.1536.816@0.0.1536.816" timestamp="1723269467863" />
+    <state x="461" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1723362204598">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="461" y="236" key="com.intellij.ide.util.TipDialog/-3840.0.2560.1400/0.0.1536.816@0.0.1536.816" timestamp="1723362204598" />
+    <state x="461" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.816@0.0.1536.816" timestamp="1723269424391" />
+    <state x="425" y="185" key="run.anything.popup" timestamp="1718772558970">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="425" y="185" key="run.anything.popup/-3840.0.2560.1400/0.0.1536.816@0.0.1536.816" timestamp="1718772558970" />
+    <state x="431" y="137" width="672" height="678" key="search.everywhere.popup" timestamp="1718770389544">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="431" y="137" width="672" height="678" key="search.everywhere.popup/-3840.0.2560.1400/0.0.1536.816@0.0.1536.816" timestamp="1718770389544" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/wyd/window/MyEventTrigger.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/wyd/window/MyEventTrigger.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/wyd/window/DeltaEvictorDemo.java</url>
+          <line>54</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
