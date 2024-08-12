@@ -12,7 +12,7 @@ public class WaterSensor {
     }
 
     public WaterSensor() {
-        WaterSensor("NULL", -1L, -1);
+        WaterSensor("NULL", -1L, 0);
     }
 
     public String getId() {
